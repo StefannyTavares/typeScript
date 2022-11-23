@@ -3,6 +3,7 @@
         "target": "es5",
         "outDir": "public",
         "rootDir": "src",
+        "sourceMap": true
     },
     "files": [
         "src/posts.ts"
